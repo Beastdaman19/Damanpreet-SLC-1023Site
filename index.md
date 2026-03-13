@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Damanpreet Singh 4416033 Text can be **bold**, _italic_, or ~~strikethrough~~.
+Damanpreet Singh 4416033 - Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
